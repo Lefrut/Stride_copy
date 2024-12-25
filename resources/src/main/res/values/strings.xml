@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stride</string>
+    <string name="stride_slogan">Stride - это твой ключ к спортивным достижениям</string>
+    <string name="start_screen_text">Почувствуй себя лучше, чем когда-либо!</string>
+    <string name="login">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+
+    <string name="login_screen_title">С возвращением \n в Stride! \uD83D\uDC4B</string>
+    <string name="login_screen_subtitle">Войти в аккаунт</string>
+
+    <string name="russian_call_code">+7</string>
+    <string name="password_mask">•</string>
+    <string name="password">Пароль</string>
+    <string name="or">или</string>
+
+    <string name="sign_in_with_google">Sign in with Google</string>
+
+    <string name="space">" "</string>
+    
+    <string name="no_account">Нет аккаунта?</string>
+    <string name="sign_up">Зарегистрируйся</string>
+
+    <string name="register_screen_title">Тренируйся вместе\n с Stride! 💪</string>
+    <string name="register_screen_subtitle">Зарегистрироваться</string>
+
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="email">Почта</string>
+    <string name="confirm_password">Подтвердить пароль</string>
+    <string name="have_account">Есть аккаунт?</string>
+
+    <string name="welcome_back">С возвращением!</string>
+    <string name="courses_from_celebrities">Курсы от знаменитостей</string>
+
+    <string name="popular_courses">Популярные курсы</string>
+    <string name="my_courses">Мои курсы</string>
+
+    <string name="recommended_courses">Рекомендованные курсы</string>
+    <string name="all">Все</string>
+    <string name="coach_name">Тренер: %1$s</string>
+    <string name="coach">Тренера</string>
+
+
+    <string name="password_incorrect">Пароль должен содержать как минимум 8 символов, хотя бы одну заглавную букву и хотя бы одну цифру.</string>
+    <string name="confirm_password_incorrect">Пароли не совпадают</string>
+    <string name="blank_fields">Все поля должны быть заполнены</string>
+    <string name="email_incorrect">Неправильно введена почта</string>
+    <string name="phone_incorrect">Неправильно введен номер телефона</string>
+
+    <string name="mistake">Ошибка</string>
+    <string name="successfully">Успешно</string>
+
+    <string name="email_already_registered">Этот email уже зарегистрирован</string>
+    <string name="phone_already_registered">Этот номер телефона уже зарегистрирован</string>
+    <string name="password_too_simple">Пароль слишком простой</string>
+    <string name="unknown_error">Произошла неизвестная ошибка</string>
+
+    <string name="error_invalid_phone">Введите корректный номер телефона</string>
+    <string name="error_short_password">Пароль должен содержать минимум 8 символов</string>
+    <string name="error_invalid_input">Некорректные данные. Проверьте введённый телефон или пароль.</string>
+
+
+</resources>
